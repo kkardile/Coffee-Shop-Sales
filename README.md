@@ -125,7 +125,7 @@ Navigate to the "Dashboard" sheet to interact with the dynamic charts and tables
 Use filters and slicers to explore different aspects of the coffee shop sales data.
 ## Credits
 
-This dashboard was created by Jaykumar Patel
+This dashboard was created by Jaykumar Patel and Krushna Kardile
 
 **Data Source :**
 
